@@ -8,6 +8,8 @@ public class First_Git {
 			System.out.println("print the dog");
 		} else {
 			System.out.println("print the cat");
+			System.out.println("print the Parrot");
+			System.out.println("print the Snake");
 
 		}
 	}
